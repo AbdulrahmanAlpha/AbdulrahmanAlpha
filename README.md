@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working As DevOps Engineering , BackEnd Developer
+- 🌱 I’m currently learning DevSecOps
+- 🤔 I'm Looking for Position as DevOps Engineer
+- 📫 How to reach me:
+Link To [My Portfelio](https://sites.google.com/view/abdulrahman-portfolio/home)
 <!--
 **Abdulrahman-Alpha/Abdulrahman-Alpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
