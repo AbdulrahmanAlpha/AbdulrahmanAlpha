@@ -8,13 +8,13 @@
 
 - 👯 I’m looking to collaborate on [Melius Metaverse App](https://www.facebook.com/meliusT.N.T)
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/3P4jCAi](https://bit.ly/3P4jCAi)
+- 👨‍💻 All of my projects are available at [My Portfelio](https://bit.ly/3P4jCAi)
 
 - 💬 Ask me about **DevOps && Computer Science**
 
 - 📫 How to reach me **sir.abdulrahman201@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFEs73miwU/Mis1RYyZBnGm0xK-YmKC8g/view?utm_content=DAFEs73miwU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFEs73miwU/Mis1RYyZBnGm0xK-YmKC8g/view?utm_content=DAFEs73miwU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAFEs73miwU/Mis1RYyZBnGm0xK-YmKC8g/view?utm_content=DAFEs73miwU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
