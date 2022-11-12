@@ -1,6 +1,6 @@
 ### Hi there 👋
 # " *A CS Senior Student, having 4 years academic experience in Computer Science, 2 years experience in DevOps, having basic knowledge and Concepts of Development, IT, Networks, and Cloud, with interest in Security Architecture and DevOps Engineering, With Commander personality (ENTJ-T)* "
-- 🔭 I’m currently working As DevOps Engineering , BackEnd Developer
+- 🔭 I’m currently working As DevOps Engineer, BackEnd Developer
 - 🌱 I’m currently learning DevSecOps
 - 🤔 I'm Looking for Position as DevOps Engineer
 - 📫 How to reach me:
