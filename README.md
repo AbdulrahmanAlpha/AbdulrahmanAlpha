@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahman-alpha&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahman-alpha" /> </p>
 
-- 🌱 I’m currently learning **DevSecOps && GWS**
+- 🌱 I’m currently learning **DevSecOps && GCP**
 
 - 👯 I’m looking to collaborate on [Melius Metaverse App](https://www.facebook.com/meliusT.N.T)
 
