@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on [Melius Metaverse App](https://www.facebook.com/meliusT.N.T)
 
-- 👨‍💻 All of my projects are available at [My Portfelio](https://bit.ly/3P4jCAi)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://bit.ly/3P4jCAi)
 
 - 💬 Ask me about **DevOps && Computer Science**
 
