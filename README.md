@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul-Rahman</h1>
-<h3 align="center">DevOps Engineer || BackEnd Developer</h3>
+<h3 align="center">DevOps/Software Engineer</h3>
 <h3 align="center">A CS Senior Student, having 4 years academic experience in Computer Science, 2 years experience in DevOps, having basic knowledge and Concepts of Development, IT, Networks, and Cloud, with interest in Security Architecture and DevOps Engineering, With Commander personality (ENTJ-T)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahman-alpha&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahman-alpha" /> </p>
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://bit.ly/3P4jCAi)
 
-- 💬 Ask me about **DevOps && Computer Science**
+- 💬 Ask me about **DevOps && Software Engineering**
 
 - 📫 How to reach me  [My E-mail](mailto:sir.abdulrahman201@gmail.com)
 
