@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning GCP and Kubernetes  
 
-- Reach [my Portfilio](https://abdulrahman-alpha.github.io/Abdulrahman-Portofilio.github.io/)
+- Reach [my Portfilio](https://abdulrahman-alpha.github.io)
 
 - ❓ Ask me about anything related to DevOps & Software Engineering  
   
