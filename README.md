@@ -28,7 +28,7 @@
 <img src="https://media.giphy.com/media/m7LIlDIEt3OxQrfUuW/giphy.gif" align="left" height="200" width="500" />  
 
 
-
+<br/>
 ### My Skill  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -75,6 +75,7 @@
 </div>  
 <br/> 
  -->
-<br/>## Github Stats  
+<br/>
+## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanAlpha&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
