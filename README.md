@@ -3,10 +3,10 @@
 </div>  
   
 
-### ***<div align="center">I'm Abdulrahman, a DevOps/Software Engineer 👨‍💻, having 4 years academic experience in Computer Science, 2 years experience in DevOps.</div>***  
+### ***<div align="center">Hi, I'm Abdulrahman, a CS graduate with expertise in DevOps. I have hands-on experience in managing cloud-based infrastructure with AWS, Azure, Docker, Kubernetes, and CI/CD pipelines using Jenkins and CircleCI. I'm also a YouTuber and blog writer. Let's collaborate to optimize workflows and achieve shared goals.</div>***  
   
 
-- ###### 🔭 I’m currently working on Graduation project  
+- ###### 🔭 I’m currently working on some DevOps project  
   
 
 - 🌱 I’m currently learning GCP and Kubernetes  
