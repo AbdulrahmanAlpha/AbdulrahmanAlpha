@@ -21,6 +21,4 @@
 <br/>  
 
 <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" align="left" height="auto" width="auto" />  
-<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" align="left" height="auto" width="auto" />  
-
 <br/>
