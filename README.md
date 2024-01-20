@@ -4,6 +4,14 @@
 
 </br>
 
+<div align="center">
+  
+  ## **"Learn as if you will live forever, live like you will die tomorrow."**
+
+</div>
+
+</br>
+
 <details>
  <summary>🇬🇧 English</summary>
 
