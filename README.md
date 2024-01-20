@@ -267,3 +267,7 @@ Siempre estoy abierto a la colaboración y las discusiones. Si tienes alguna pre
 ---
 
 </details>
+
+</br>
+
+**Reach out My Resume From 🔗 [Here](https://drive.google.com/file/d/1c0G0IPSn4AxkeHclLKrU7RzFpsvqM7VN/view?usp=sharing)**
