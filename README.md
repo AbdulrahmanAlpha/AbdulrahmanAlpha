@@ -66,7 +66,7 @@ Explore more on [Abdulrahman's Tech Insights](https://abdulrahmanalpha.hashnode.
 
 I'm always open to collaboration and discussions. If you have any questions, suggestions, or just want to chat about tech, feel free to reach out. You can find me on:
 
-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abdulrahmanalpha.github.io/)
+- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abdulrahman-alpha.web.app/)
 
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahmanalpha/)
 
@@ -132,7 +132,7 @@ Erkunden Sie mehr auf [Abdulrahmans Tech Insights](https://abdulrahmanalpha.hash
 
 Ich stehe Ihnen immer für Zusammenarbeit und Diskussionen zur Verfügung. Wenn Sie Fragen, Anregungen oder einfach nur Lust auf einen technischen Plausch haben, zögern Sie nicht, mich zu kontaktieren. Sie finden mich unter:
 
-- [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abdulrahmanalpha.github.io/)
+- [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abdulrahman-alpha.web.app/)
   
 - [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahmanalpha/)
   
@@ -198,7 +198,7 @@ Explorez davantage sur [Perspectives Technologiques d'Abdulrahman](https://abdul
 
 Je suis toujours ouvert à la collaboration et aux discussions. Si vous avez des questions, des suggestions, ou simplement envie de discuter de tech, n'hésitez pas à me contacter. Vous pouvez me trouver sur :
 
-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abdulrahmanalpha.github.io/)
+- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abdulrahman-alpha.web.app/)
   
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahmanalpha/)
   
@@ -264,7 +264,7 @@ Siéntete libre de explorar mi blog, donde comparto ideas sobre DevOps, DevSecOp
 
 Siempre estoy abierto a la colaboración y las discusiones. Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre tecnología, no dudes en ponerte en contacto. Puedes encontrarme en:
 
-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abdulrahmanalpha.github.io/)
+- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abdulrahman-alpha.web.app/)
   
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahmanalpha/)
   
