@@ -59,7 +59,7 @@ More on 👉 [AlphaOpsCraft Blog](https://abdulrahmanalpha.hashnode.dev/)
 
 * 📧 **Email:** [sir.abdulrahman201@gmail.com](mailto:sir.abdulrahman201@gmail.com)
 * 📱 **Phone:** +20 109 931 9413
-* 🌍 **Location:** Ismailia, Egypt
+* 🌍 **Location:** Egypt
 * 🖥️ **Portfolio:** [abdulrahman-alpha.web.app](https://abdulrahman-alpha.web.app)
 
 ---
