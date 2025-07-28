@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Abdulrahman — aka <span style="color:#fca311;">Alpha</span> ⚙️💻</h1>
+<h1 align="center">Hey 👋 I'm Abdulrahman — aka <span style="color:#fca311;">Mr. Alpha</span> ⚙️💻</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGd1a2tnejI3ejllMDF1djh4bHRpNTVnczRnOWw5anh4anU5emtteSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O7x8QN7gMcsAxX8v2z/giphy.gif" width="250" />
