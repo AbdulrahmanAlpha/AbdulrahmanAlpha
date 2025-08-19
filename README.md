@@ -39,9 +39,9 @@ Version Control:  [ Git 🔁 ]
 
 ### 🧠 Projects I’m Proud Of
 
-🧱 **[K8s Cluster on AWS with Terraform](https://github.com/AbdulrahmanAlpha/Provision-a-Kubernetes-cluster-on-AWS-using-Terraform)**
-🌀 **[Serverless App on AWS Lambda + Terraform](https://github.com/AbdulrahmanAlpha/Deploying-a-Serverless-Application-on-AWS-Lambda-using-Terraform)**
-🔄 **[CI/CD Pipeline on GCP with Terraform + Jenkins](https://github.com/AbdulrahmanAlpha/Build-a-CI-CD-pipeline-on-Google-Cloud-Platform-using-Terraform-and-Jenkins)**
+* 🧱 **[K8s Cluster on AWS with Terraform](https://github.com/AbdulrahmanAlpha/Provision-a-Kubernetes-cluster-on-AWS-using-Terraform)**
+* 🌀 **[Serverless App on AWS Lambda + Terraform](https://github.com/AbdulrahmanAlpha/Deploying-a-Serverless-Application-on-AWS-Lambda-using-Terraform)**
+* 🔄 **[CI/CD Pipeline on GCP with Terraform + Jenkins](https://github.com/AbdulrahmanAlpha/Build-a-CI-CD-pipeline-on-Google-Cloud-Platform-using-Terraform-and-Jenkins)**
 
 ---
 
