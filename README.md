@@ -16,7 +16,7 @@
 🎓 CS Graduate  
 🧑‍💻 Former IT Support Specialist  
 🛠 DevOps Engineer in Progress  
-📣 Tech Educator at <a href="https://abdulrahmanalpha.hashnode.dev/">AlphaOpsCraft</a>
+📣 Tech Educator at <a href="https://abdulrahmanalpha.hashnode.dev/">MrAlphaHub</a>
 
 I love turning complex cloud problems into clean, automated solutions…  
 And making DevOps **fun**, **practical**, and **understandable** 🧩
@@ -51,7 +51,7 @@ Version Control:  [ Git 🔁 ]
 * 🛠 [Infrastructure Automation with Terraform](https://abdulrahmanalpha.hashnode.dev/infrastructure-automation-with-terraform)
 * 🚀 [CI/CD Pipeline: Automating Software Delivery](https://abdulrahmanalpha.hashnode.dev/cicd-pipeline-automating-software-delivery)
 
-More on 👉 [AlphaOpsCraft Blog](https://abdulrahmanalpha.hashnode.dev/)
+More on 👉 [MrAlphaHub Blog](https://abdulrahmanalpha.hashnode.dev/)
 
 ---
 
