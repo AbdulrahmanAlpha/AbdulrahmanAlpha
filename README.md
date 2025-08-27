@@ -68,7 +68,7 @@ More on 👉 [MrAlphaHub Blog](https://abdulrahmanalpha.hashnode.dev/)
 
 Need the full story?
 
-[![Resume](https://img.shields.io/badge/View_My_Resume-0078D4?style=for-the-badge\&logo=microsoftword\&logoColor=white)](./Assets/SRE-Resume.pdf)
+[![Resume](https://img.shields.io/badge/View_My_Resume-0078D4?style=for-the-badge\&logo=microsoftword\&logoColor=white)](./assets/Abdulrahman_CV.pdf)
 
 ---
 
